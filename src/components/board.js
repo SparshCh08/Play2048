@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Tile from './tile';
 import Cell from './cell';
 import { Board } from '../helper';
